@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "914699461744",
+    "firebase_url": "https://abpl-17559.firebaseio.com",
+    "project_id": "abpl-17559",
+    "storage_bucket": "abpl-17559.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914699461744:android:4231df40284180b4",
+        "android_client_info": {
+          "package_name": "abpl.android.com.abpl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914699461744-8gtcar47i4rvgt6kq5r7qp00i9a4gghv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "abpl.android.com.abpl",
+            "certificate_hash": "454209675FB662405828FFD11A971611E98AA34C"
+          }
+        },
+        {
+          "client_id": "914699461744-9b0nvuouqqape7e2k91t78snn6874u5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkVY_cL9tEZd0n7vM9OtIom8TTWyONwPM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914699461744-9b0nvuouqqape7e2k91t78snn6874u5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
